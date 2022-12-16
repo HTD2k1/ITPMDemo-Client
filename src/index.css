@@ -1,0 +1,12 @@
+body{
+  /* background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1322%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='url(%23SvgjsLinearGradient1323)'%3e%3c/rect%3e%3cpath d='M0 0L20.26 0L0 131.48z' fill='rgba(255%2c 255%2c 255%2c .1)'%3e%3c/path%3e%3cpath d='M0 131.48L20.26 0L95.57000000000001 0L0 367.67999999999995z' fill='rgba(255%2c 255%2c 255%2c .075)'%3e%3c/path%3e%3cpath d='M0 367.67999999999995L95.57000000000001 0L452.46999999999997 0L0 707.1999999999999z' fill='rgba(255%2c 255%2c 255%2c .05)'%3e%3c/path%3e%3cpath d='M0 707.1999999999999L452.46999999999997 0L554.0899999999999 0L0 866.3599999999999z' fill='rgba(255%2c 255%2c 255%2c .025)'%3e%3c/path%3e%3cpath d='M1920 1080L1869.13 1080L1920 1011.5z' fill='rgba(0%2c 0%2c 0%2c .1)'%3e%3c/path%3e%3cpath d='M1920 1011.5L1869.13 1080L1393.3500000000001 1080L1920 623.88z' fill='rgba(0%2c 0%2c 0%2c .075)'%3e%3c/path%3e%3cpath d='M1920 623.88L1393.35 1080L566.4799999999999 1080L1920 571.46z' fill='rgba(0%2c 0%2c 0%2c .05)'%3e%3c/path%3e%3cpath d='M1920 571.46L566.48 1080L311.17 1080L1920 397.68000000000006z' fill='rgba(0%2c 0%2c 0%2c .025)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1322'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='10.94%25' y1='-19.44%25' x2='89.06%25' y2='119.44%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1323'%3e%3cstop stop-color='rgba(69%2c 107%2c 147%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(111%2c 220%2c 192%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e"); */
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(97,186,255,1) 0%, rgba(166,239,253,1) 90.1% );
+  overflow: auto;
+}
+html, body{min-height:100%;}
+* {
+  /* font-family: 'Noto Sans JP' !important; */
+  font-family: 'Heebo', sans-serif !important;
+}
